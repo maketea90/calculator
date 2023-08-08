@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+button {
+    /* width: 300px; */
+    height: 100px;
+    border-color: green;
+    font-size: 50px;
+    display: flex;
+    flex-basis: 32%;
+    justify-content: center;
+    align-items: center;
+}
